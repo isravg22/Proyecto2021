@@ -1,0 +1,72 @@
+p {
+    color:green;
+}
+address{
+	color: blue;
+}
+#cabecera{  
+
+ 	text-align: center;
+	position: absolute;
+    top: 2%;
+    left: 0.5%;
+    height: 10%;
+    width: 99%;
+    
+}
+#masculina{
+	position:absolute;
+	top:13%;
+	left:0.5%;
+	width:16.5%;
+	height: 65%;
+}
+#femenina{
+	position:absolute;
+	top:13%;
+	left:83%;
+	width:16.5%;
+	height: 65%;
+}
+#contenido{
+	position: absolute;
+	top:13%;
+	left:18%;
+	width: 64%;
+	height:65%;
+}
+#piedepagina{
+	position: absolute;
+	top:80%;
+	left:18%;
+	height: 10%;
+	width: 64%;
+}
+.b{
+    background-color: yellow;
+}
+.a{
+    background-color: blue;
+}
+.c{
+	background-color: red;
+}
+.z{
+
+	font-size: 25px;
+	font-family:Arial;
+	text-shadow: 20px 20px 20px red ;	
+}
+.e{
+	font-size:15px;
+	font-family: arial;
+	color: black;
+	text-align: center;
+
+}
+.f{
+	font-size: 15px;
+	font-family: Perpetua;
+	color: black;
+	text-align: center;
+}
