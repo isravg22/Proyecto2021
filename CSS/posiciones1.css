@@ -19,25 +19,25 @@ address{
 	top:13%;
 	left:0.5%;
 	width:16.5%;
-	height: 65%;
+	height: 86%;
 }
 #femenina{
 	position:absolute;
 	top:13%;
 	left:83%;
 	width:16.5%;
-	height: 65%;
+	height: 86%;
 }
 #contenido{
 	position: absolute;
 	top:13%;
 	left:18%;
 	width: 64%;
-	height:65%;
+	height:75%;
 }
 #piedepagina{
 	position: absolute;
-	top:80%;
+	top:89%;
 	left:18%;
 	height: 10%;
 	width: 64%;
@@ -56,4 +56,16 @@ address{
 	font-size: 25px;
 	font-family:Arial;
 	text-shadow: 20px 20px 20px red ;	
+}
+.banderas{
+
+	width: 15%;
+	left:20%;
+	position: absolute;
+}
+.caras{
+	top: 5%;
+	width: 10%;
+	left: 10%;
+	position: absolute;
 }
