@@ -47,6 +47,7 @@ address{
 }
 .a{
     background-color: blue;
+
 }
 .c{
 	background-color: red;
@@ -65,7 +66,10 @@ address{
 }
 .caras{
 	top: 5%;
-	width: 10%;
+	width: 15%;
 	left: 10%;
 	position: absolute;
 }
+.f{
+	width: 99%;
+	height: 100%;
