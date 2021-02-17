@@ -79,7 +79,7 @@ address{
 }
 .botones{
 	top: 18%;
-	width:20%;
+	width:15%;
 	height: 4%;
 	left: 8%;
 	background-color:white;
@@ -87,25 +87,33 @@ address{
 }
 .botones1{
 	top: 18%;
-	width:20%;
+	width:15%;
 	height: 4%;
-	left:30%;
+	left:25%;
 	background-color: #1baef3 ;
 	position: absolute;
 }
 .botones2{
 	top: 18%;
-	width:20%;
+	width:15%;
 	height: 4%;
-	left:52%;
+	left:42%;
 	background-color: #3577cb ;
 	position: absolute;
 }
 .botones3{
 	top: 18%;
-	width:20%;
+	width:15%;
 	height: 4%;
-	left: 74%;
+	left: 59%;
 	background-color:red;
+	position: absolute;
+}
+.botones4{
+	top: 18%;
+	width:15%;
+	height: 4%;
+	left: 76%;
+	background-color:rgb(39, 81, 128);
 	position: absolute;
 }
