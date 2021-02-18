@@ -1,11 +1,12 @@
 p {
     color:white;
+    font-size: 14.3px;
 }
 address{
 	color: white;
 }
 #cabecera{  
-
+	
  	text-align: center;
 	position: absolute;
     top: 1%;
